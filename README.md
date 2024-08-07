@@ -1,6 +1,9 @@
 # Eerie Daoist Enigma Website
 
-Welcome to the **Eerie Daoist Enigma** website, a unique online experience inspired by a chilling horror novel. Drawing its essence from the unsettling ambiance of this novel.
+Welcome to the **Eerie Daoist Enigma** website, a unique online experience inspired by a chilling horror novel. Drawing its essence from the unsettling ambiance of this novel.(道诡异仙)
+
+All the illustrations were generated using MidJourney, as part of my exploration in the field of prompts. They were created in SS2023. GSAP was used as the animation library for the base scroll implementation.
+
 
 
 
@@ -41,7 +44,3 @@ The website comprises five captivating scenes that draw users deeper into the Ee
 ## Animation and Interaction
 
 To bring the Eerie Daoist Enigma to life, the project utilizes the powerful **GSAP (GreenSock Animation Platform)** library along with the **ScrollTrigger** plugin. These tools enable seamless animation, parallax scrolling, and interactive elements that enhance the user experience, making every visit to the website an unforgettable journey.
-
-------
-
-Feel free to customize the Markdown text to fit your specific needs and design preferences.
